@@ -26,7 +26,8 @@ This GitHub profile includes projects related to software testing, with a focus 
 - [OpenCart Demo Site – Manual Test Cases](https://github.com/Hakicu/Test-Case-Repository-for-OpenCart-Demo-Site)  
   Contains structured test cases in Markdown format for common e-commerce functionalities such as product selection and user registration.
 
-- (More repositories will be added soon...)
+- [Nopcommerce Demo Site – Functional/Manual Test Cases](https://github.com/Hakicu/Test-Case-Repository-for-Nopcommerce-Demo-Site.git)  
+  Contains a collection of test cases for the Nopcommerce Demo Site. It is designed to assist in automated testing and validation of various functionalities available on the Nopcommerce platform. The test cases are organized by category and intended to ensure the quality and stability of the demo site.
 
 ## Learning Goals
 
